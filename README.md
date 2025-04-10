@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#page_with_curl-about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
@@ -31,4 +31,4 @@ Esse projeto foi desenvolvido utilizando-se as tecnologias:
 
 </br>
 
-Made with ❤️ by AnaBiamp1 👋🏻 [Get in touch](https://github.com/Anabiamp1)
+Made with ❤️ by AnaBiamp1 👋🏻 [Clique aqui ](https://github.com/Anabiamp1)
